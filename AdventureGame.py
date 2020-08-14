@@ -9,7 +9,7 @@ def print_pause(message_to_print):
 
 
 def intro():
-    print_pause("You are lucked in a room with your friend!")
+    print_pause("You are locked in a room with your friend!")
     print_pause("in front of you there are 2 escape doors.")
     print_pause("only one person can use each door")
     print_pause("but! both doors has a puzzle must be solved to be open!")
